@@ -1,0 +1,9 @@
+table { background-color: #red; }
+tr { background-color: lightcoral; }
+td { background-color: #green; }
+td {border-collapse: collapse;}
+th{
+    font-weight: 800;
+    background-color: white;
+    color: purple
+}
